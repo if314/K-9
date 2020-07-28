@@ -31,3 +31,11 @@
 #hero .btn-watch-video {
     color: #fff;
 }
+
+div.absolute {
+    position: absolute;
+    right:40%;
+    bottom: 10px;
+    color:#ed631d;
+ 
+  } 
