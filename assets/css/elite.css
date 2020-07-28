@@ -22,10 +22,12 @@
 
 
 #hero .btn-get-started {
-
     background: #ed631d;
 }
 
 #hero .btn-watch-video i {
     color: #ed631d;
+}
+#hero .btn-watch-video {
+    color: #fff;
 }
